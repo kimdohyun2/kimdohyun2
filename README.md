@@ -18,6 +18,13 @@
   <img src="https://img.shields.io/badge/MySQL-0000FF?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
 
+<h3 align="center">📕 공부</h3>
+<div align="center">
+  <a href="https://www.notion.so/test-222e8238d5ab80c99656c71a3893e909?source=copy_link" target="_blank">
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+  </a>
+</div>
+
 <br/>
 
 <div align="center">
