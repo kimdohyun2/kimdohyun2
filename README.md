@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=slice&color=timeAuto&height=300&section=header&text=개발자%20김도현&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=egg&color=timeAuto&height=200&section=header&text=개발자%20김도현&fontSize=90)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimdohyun2)](https://github.com/anuraghazra/github-readme-stats)
